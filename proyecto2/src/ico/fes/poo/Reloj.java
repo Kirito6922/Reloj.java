@@ -142,25 +142,6 @@ public class Reloj {
     
 
     
-    /*    /////// Correcto pero asi no lo quiere el "diseñador" 
     
-    public void incrementarsegundo(){
-        
-        for (segundo = 0; segundo < 60;segundo ++) {
-            if(segundo==59){
-                minuto ++;
-                segundo = 0;
-                if(minuto==59){
-                    hora ++;
-                    minuto = 0; 
-                }
-            }
-    
-        }
-    
-    
-    
-}
-    */
     
 }
